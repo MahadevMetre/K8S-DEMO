@@ -16,7 +16,7 @@ minikube start
 > • Driver: Docker\
 > • Warnings about Docker disk usage
 
-![](vertopal_97a401fce1fc446eafda662d7e5206df/media/image1.png){width="6.5in"
+![](https://github.com/MahadevMetre/K8S-DEMO/blob/main/media/image1.png){width="6.5in"
 height="2.886110017497813in"}
 
 **🚀 Re-run Minikube with Docker Driver** minikube start \--driver
