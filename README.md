@@ -21,20 +21,16 @@ minikube start
 **🚀 Re-run Minikube with Docker Driver** minikube start \--driver
 docker
 
-![](vertopal_97a401fce1fc446eafda662d7e5206df/media/image2.png){width="6.5in"
-height="2.8847222222222224in"}
-
+![](media/image2.png)
 ✅ **Step 2: Check Minikube Status**\
 minikube status
 
-![](vertopal_97a401fce1fc446eafda662d7e5206df/media/image3.png){width="6.5in"
-height="1.0624989063867016in"}
+![](media/image3.png)
 
 **🚀 Step 3: Check Cluster Node Info**\
 kubectl get node
 
-![](vertopal_97a401fce1fc446eafda662d7e5206df/media/image4.png){width="6.5in"
-height="0.5625in"}
+![](media/image4.png)
 
 **🚀 Useful CLI Info**
 
@@ -50,8 +46,7 @@ kubectl apply -f mongo-secret.yaml\
 kubectl apply -f mongo.yaml\
 kubectl apply -f webapp.yaml
 
-![](vertopal_97a401fce1fc446eafda662d7e5206df/media/image5.png){width="6.5in"
-height="3.5097222222222224in"}
+![](media/image4.png)
 
 **🚀 Step 5: Kubernetes Resource Monitoring Commands**
 
@@ -66,13 +61,11 @@ kubectl get \--help\
 kubectl describe service \<service-name\>\
 kubectl describe pod \<pod-name\>
 
-![](vertopal_97a401fce1fc446eafda662d7e5206df/media/image6.png){width="6.5in"
-height="3.1555555555555554in"}
+![](media/image5.png)
 
 Resulting webpage on my local:
 
-![](vertopal_97a401fce1fc446eafda662d7e5206df/media/image7.png){width="6.5in"
-height="3.0944444444444446in"}
+![](media/image6.png)
 
 This hands-on demo was a great exercise in managing a Kubernetes
 environment locally, simulating real-world microservices deployment with
