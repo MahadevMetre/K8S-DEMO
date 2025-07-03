@@ -67,6 +67,8 @@ Resulting webpage on my local:
 
 ![](media/image6.png)
 
+
+![](media/image7.png)
 This hands-on demo was a great exercise in managing a Kubernetes
 environment locally, simulating real-world microservices deployment with
 secrets, configs, and persistent services.
